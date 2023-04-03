@@ -1,7 +1,7 @@
-# KNPerformance
+## KNPerformance
 Personal Training Website
 
-##Description
+## Description
 Front End Responsive Website where users can see services, testiomnials and schedule a consulation with Kevin for a workout using HTML/CSS/SASS/Javascript
 
 ## Link to the App
