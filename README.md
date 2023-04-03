@@ -15,4 +15,4 @@ Front End Responsive Website where users can see services, testiomnials and sche
 ## Contact
 - GitHub: [KevinNg2](https://github.com/KevinNg2)
 - Email: [kevinng3292@gmail.com](mailto:kevinng3292@gmail.com)
-- LinkedIn: [Let's Connect] (https://www.linkedin.com/in/kevinng3292/)
+- LinkedIn: [Let's Connect](https://www.linkedin.com/in/kevinng3292/)
