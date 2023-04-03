@@ -2,15 +2,11 @@
 Personal Training Website
 
 ##Description
-Front End Responsive Website where users can see services, testiomnials and schedule a consulation with Kevin for a workout
+Front End Responsive Website where users can see services, testiomnials and schedule a consulation with Kevin for a workout using HTML/CSS/SASS/Javascript
 
-#Link to the App
+## Link to the App
+https://kevinng2.github.io/KNPerformance/
 
-## User Story
-
-## Usage
-
-##Credits
 
 ## Contact
 - GitHub: [KevinNg2](https://github.com/KevinNg2)
